@@ -1,0 +1,9 @@
+﻿<asp:Label runat="server" width=40%></asp:Label>
+
+<asp:TextBox runat="server" 
+width=50%
+margin = 5px></asp:TextBox>
+
+<asp:DropDownList runat="server" 
+margin-bottom = 10px 
+width=50%></asp:DropDownList>

@@ -1,0 +1,3 @@
+﻿<asp:Label runat="server" width="40%" Forecolor="Black"></asp:Label>
+<asp:TextBox runat="server" width="50%" padding="2" margin-bottom="2px"></asp:TextBox>
+<asp:DropDownList runat="server" width="50%" margin-bottom="2px"></asp:DropDownList>

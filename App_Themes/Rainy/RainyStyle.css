@@ -1,0 +1,23 @@
+﻿body {
+    background-color: gray;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.btn {
+    background-color: black;
+    color:white;
+}
+
+#lblHeading {
+    float: initial;
+    font-size: larger;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.margin {
+    margin-bottom:4px;
+}
